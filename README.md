@@ -2,7 +2,7 @@
 Advanced multithreaded TCP scanner with banner grabbing and JSON output
 
 High-performance multithreaded TCP port scanner written in C.
-Features
+Features:
 ⚡ Multithreaded scanning engine
 🎯 Custom port range selection
 ⏱ Non-blocking sockets with timeout control
