@@ -1,23 +1,35 @@
 # NetProbe
 Advanced multithreaded TCP scanner with banner grabbing and JSON output
 
-High-performance multithreaded TCP port scanner written in C.
-Features:
-⚡ Multithreaded scanning engine
-🎯 Custom port range selection
-⏱ Non-blocking sockets with timeout control
-🧠 Banner grabbing
-📦 JSON formatted output
-🔌 Designed for Python integration
+High-performance multithreaded TCP port scanner written in C.  
 
-COMPILE: 
+Features:  
+
+⚡ Multithreaded scanning engine  
+
+🎯 Custom port range selection  
+
+⏱ Non-blocking sockets with timeout control  
+
+🧠 Banner grabbing  
+
+📦 JSON formatted output  
+
+🔌 Designed for Python integration  
+
+
+COMPILE:   
+
 make scanner
 
-USAGE: 
+USAGE:  
+
 ./scanner <target_ip> <start_port> <end_port>
 
-EXAMPLE: 
+EXAMPLE:  
+
 ./scanner 192.168.1.1 1 1000
 
-Legal Disclaimer:
+Legal Disclaimer:  
+
 This tool is intended for educational purposes and authorized testing only!!!
