@@ -14,7 +14,7 @@ COMPILE:
 make scanner
 
 USAGE: 
-./scanner <target_ip> <start_port> <end_port
+./scanner <target_ip> <start_port> <end_port>
 
 EXAMPLE: 
 ./scanner 192.168.1.1 1 1000
