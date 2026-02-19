@@ -1,5 +1,5 @@
 # NetProbe
-Advanced multithreaded TCP scanner with banner grabbing and JSON output
+Advanced multithreaded TCP scanner with banner grabbing 
 
 High-performance multithreaded TCP port scanner written in C.  
 
@@ -12,9 +12,7 @@ Features:
 ⏱ Non-blocking sockets with timeout control  
 
 🧠 Banner grabbing  
-
-📦 JSON formatted output  
-
+ 
 🔌 Designed for Python integration  
 
 
